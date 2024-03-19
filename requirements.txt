@@ -1,0 +1,2 @@
+snowflake-sqlalchemy==1.5.1
+clickhouse-connect>=0.6.8
